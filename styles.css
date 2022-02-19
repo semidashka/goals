@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+#app {
+  margin: 3rem auto;
+  width: 75%;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.26);
+  padding: 1rem;
+}
+
+label, input {
+  display: block;
+  margin-bottom: 0.5rem;
+  width: 100%;
+}
+
+label {
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  margin: 1rem 0;
+  padding: 0;
+}
+
+li {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid rgb(204,204,204);
+}
